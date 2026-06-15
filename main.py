@@ -21,5 +21,8 @@ ping_result = test.results.ping
 print(f"Download speed: {download_result / 1024 / 1024:.2f} mb/s ") # Changing bits to mbs
 print(f"Upload speed: {upload_result / 1024 / 1024:.2f} mb/s ")
 print(f"Ping: {ping_result:.2f} ms")
-# Testing vim
 
+
+# This is complete donw and up tester 
+
+print("This is complete")
